@@ -4,7 +4,7 @@
 
 This repo contains a topo for the boulder in Shoreditch park. I based this on the descriptions on [UK Climbing](https://www.ukclimbing.com/logbook/crags/shoreditch_park_boulder-9490) as well as my own experience. 
 
-Download `topo.pdf` above for a simple PDF containing the images and descriptions of the climbing problems for viewing on a computer, phone or similar. In `topo_booklet.pdf` the the pages are aranged such that they can be folded into a booklet when printed.
+Download `topo.pdf` above for a simple PDF containing the images and descriptions of the climbing problems for viewing on a computer, phone or similar. In `topo_booklet.pdf` the pages are aranged such that they can be folded into a booklet when printed.
 
 ## Contributing
 
